@@ -1,0 +1,19 @@
+1: 282
+2: d8:96:95:01:a5:c9
+3: session=inxE3QsNHa
+4: www.map.wisc.edu
+5: username=iamauser, hashed password=b9703614d138ef18234e74df390c58b39a63b10ac56134d56e61d097, decoded password=billiard
+7: cs155@dummymail.com
+8: whitehat
+9: 5
+11: tcpdump -n -r trace1.pcap src host 131.253.40.84
+12: tcpdump -n -r trace1.pcap dst port 80
+13: tcpdump -n -r trace1.pcap \arp 
+14: tcpdump -n -r trace1.pcap port 443 and dst host 74.125.225.81
+15: 22,80,9929,31337
+16: sudo nmap -sU scanme.insecure.org
+17: Linux 5.0 - 5.4
+
+  
+
+

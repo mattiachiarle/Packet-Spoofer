@@ -1,0 +1,7 @@
+.idea/
+*.jpg
+*.pcap
+*.pcapng
+*.zip
+*.org
+.DS_Store
